@@ -83,7 +83,7 @@
     height: 50px;
 }
 
-.card {
+.card,.card-1 {
     border: none;
     border-radius: 10px;
     height: auto;
@@ -183,6 +183,11 @@
     .card {
         width: 90vw;
     }
+      .card-1{
+        width:90vw ;
+        margin-top: 60px;
+     
+    }
 
     .topbar, .bottom-bar {
         display: flex;
@@ -214,4 +219,5 @@
         padding: 10px;
         box-sizing: border-box;
     }
+    .st
 }
