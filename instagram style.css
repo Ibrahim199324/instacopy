@@ -83,7 +83,7 @@
     height: 50px;
 }
 
-.card,.card-1 {
+.card, .card-1 {
     border: none;
     border-radius: 10px;
     height: auto;
