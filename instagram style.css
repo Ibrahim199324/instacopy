@@ -170,7 +170,7 @@
 }
 
 /* إظهار topbar و bottom-bar في الشاشات الصغيرة */
-@media screen and (max-width: 750px) {
+@media screen and (max-width:750px) {
     .sidebar {
         display: none;
     }
